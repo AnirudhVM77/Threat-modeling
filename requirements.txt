@@ -1,0 +1,9 @@
+gradio
+openai
+pymongo
+pandas
+PyPDF2
+fastapi
+uvicorn
+python-dotenv
+nicegui>=1.3.15
